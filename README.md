@@ -1,3 +1,35 @@
+### Hi there 👋
+###### 📫 How to reach me: sn.bilalekinci@gmail.com
+
+## 🛠  Technologies and tools
+#### 🧑‍💻 Languages 
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+#### 
+
+#### 📚 Frameworks
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+
+#### ⚙️ Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
+## 🔍  Where to find me
+###### [![Linkedin: Halit Enes Kalayci](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:////www.linkedin.com/in/bilalekinci/)](https://www.linkedin.com/in/bilalekinci/) [![GitHub BilalEkinci](https://img.shields.io/github/followers/bilaleknc?label=follow&style=social)](https://github.com/bilaleknc) 
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## About me
 Hi, I'm Bilal Ekinci. I am interested in technology, especially in the field of software, because I enjoy solving problems, expanding projects, and improving them.
 
